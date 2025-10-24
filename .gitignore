@@ -1,0 +1,45 @@
+﻿# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Build / Dist
+dist/
+build/
+*.egg-info/
+
+# Docker
+*.pid
+*.log
+.env
+docker-compose.override.yml
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# CI/CD
+coverage/
+reports/
+tmp/
+
+# Others
+logs/
+*.swp
+*.swo
