@@ -113,7 +113,7 @@ docs/screenshots/
 ## 💻 How to Clone and Explore
 
 ```bash
-git clone https://github.com/asynchronous-dreams/Version-Controlled-DevOps-Workflow.git
+git clone https://github.com/AdeshAJ/Version-Controlled-DevOps-Workflow.git
 cd Version-Controlled-DevOps-Workflow
 git branch -a
 ```
@@ -148,5 +148,6 @@ git push origin dev
 ````
 
 ---
+
 
 
