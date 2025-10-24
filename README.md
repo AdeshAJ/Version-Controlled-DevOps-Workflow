@@ -14,9 +14,13 @@ It covers the entire lifecycle — repository creation, branching, merging, tagg
 
 .
 ├── src/                  # Source files or demo scripts
+
 ├── docs/                 # Documentation and screenshots
+
 ├── README.md             # Project overview (this file)
+
 ├── TASK_LOG.md           # Chronological record of work
+
 └── .gitignore            # Ignored files configuration
 
 ```
@@ -144,4 +148,5 @@ git push origin dev
 ````
 
 ---
+
 
